@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database
+attendance.db
+
+# ML dataset (do not push raw images)
+dataset/
+
+# Runtime / temp files
+train_status.json
+
+# Mac files
+.DS_Store
